@@ -1,0 +1,23 @@
+.tab-item {
+  list-style-type: none;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+  padding: 10px;
+  border: 50px;
+  font-family: 'Roboto';
+}
+.Langbutton {
+  color: #db1c48;
+  border: 1px solid red;
+  padding: 10px;
+  border-radius: 30px;
+  font-family: 'Roboto';
+  background-color: transparent;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+}
+.activeClassName {
+  background-color: #db1c48;
+  color: white;
+}
